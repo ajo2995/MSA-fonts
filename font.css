@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'clustal';
+  src: url('woff/Clustal-Regular.woff');
+}
+@font-face {
+  font-family: 'zappo';
+  src: url('woff/Zappo-Regular.woff');
+}
+@font-face {
+  font-family: 'taylor';
+  src: url('woff/Taylor-Regular.woff');
+}
+@font-face {
+  font-family: 'hydrophobicity';
+  src: url('woff/Hydrophobicity-Regular.woff');
+}
+@font-face {
+  font-family: 'helix';
+  src: url('woff/Helix-Regular.woff');
+}
+@font-face {
+  font-family: 'strand';
+  src: url('woff/Strand-Regular.woff');
+}
+@font-face {
+  font-family: 'turn';
+  src: url('woff/Turn-Regular.woff');
+}
+@font-face {
+  font-family: 'buried';
+  src: url('woff/Buried-Regular.woff');
+}
