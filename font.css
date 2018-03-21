@@ -1,32 +1,48 @@
 @font-face {
   font-family: 'clustal';
-  src: url('woff/Clustal-Regular.woff');
+  src: url('fonts/Clustal-Regular.woff2') format('woff2'),
+       url('fonts/Clustal-Regular.woff') format('woff'),
+       url('fonts/Clustal-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'zappo';
-  src: url('woff/Zappo-Regular.woff');
+  src: url('fonts/Zappo-Regular.woff2') format('woff2'),
+       url('fonts/Zappo-Regular.woff') format('woff'),
+       url('fonts/Zappo-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'taylor';
-  src: url('woff/Taylor-Regular.woff');
+  src: url('fonts/Taylor-Regular.woff2') format('woff2'),
+       url('fonts/Taylor-Regular.woff') format('woff'),
+       url('fonts/Taylor-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'hydrophobicity';
-  src: url('woff/Hydrophobicity-Regular.woff');
+  src: url('fonts/Hydrophobicity-Regular.woff2') format('woff2'),
+       url('fonts/Hydrophobicity-Regular.woff') format('woff'),
+       url('fonts/Hydrophobicity-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'helix';
-  src: url('woff/Helix-Regular.woff');
+  src: url('fonts/Helix-Regular.woff2') format('woff2'),
+       url('fonts/Helix-Regular.woff') format('woff'),
+       url('fonts/Helix-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'strand';
-  src: url('woff/Strand-Regular.woff');
+  src: url('fonts/Strand-Regular.woff2') format('woff2'),
+       url('fonts/Strand-Regular.woff') format('woff'),
+       url('fonts/Strand-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'turn';
-  src: url('woff/Turn-Regular.woff');
+  src: url('fonts/Turn-Regular.woff2') format('woff2'),
+       url('fonts/Turn-Regular.woff') format('woff'),
+       url('fonts/Turn-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'buried';
-  src: url('woff/Buried-Regular.woff');
+  src: url('fonts/Buried-Regular.woff2') format('woff2'),
+       url('fonts/Buried-Regular.woff') format('woff'),
+       url('fonts/Buried-Regular.eot') format('embedded-opentype')
 }
