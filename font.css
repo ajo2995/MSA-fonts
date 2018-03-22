@@ -46,3 +46,51 @@
        url('fonts/Buried-Regular.woff') format('woff'),
        url('fonts/Buried-Regular.eot') format('embedded-opentype')
 }
+@font-face {
+  font-family: 'boldclustal';
+  src: url('fonts/Clustal-Bold.woff2') format('woff2'),
+       url('fonts/Clustal-Bold.woff') format('woff'),
+       url('fonts/Clustal-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldzappo';
+  src: url('fonts/Zappo-Bold.woff2') format('woff2'),
+       url('fonts/Zappo-Bold.woff') format('woff'),
+       url('fonts/Zappo-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldtaylor';
+  src: url('fonts/Taylor-Bold.woff2') format('woff2'),
+       url('fonts/Taylor-Bold.woff') format('woff'),
+       url('fonts/Taylor-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldhydrophobicity';
+  src: url('fonts/Hydrophobicity-Bold.woff2') format('woff2'),
+       url('fonts/Hydrophobicity-Bold.woff') format('woff'),
+       url('fonts/Hydrophobicity-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldhelix';
+  src: url('fonts/Helix-Bold.woff2') format('woff2'),
+       url('fonts/Helix-Bold.woff') format('woff'),
+       url('fonts/Helix-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldstrand';
+  src: url('fonts/Strand-Bold.woff2') format('woff2'),
+       url('fonts/Strand-Bold.woff') format('woff'),
+       url('fonts/Strand-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldturn';
+  src: url('fonts/Turn-Bold.woff2') format('woff2'),
+       url('fonts/Turn-Bold.woff') format('woff'),
+       url('fonts/Turn-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldburied';
+  src: url('fonts/Buried-Bold.woff2') format('woff2'),
+       url('fonts/Buried-Bold.woff') format('woff'),
+       url('fonts/Buried-Bold.eot') format('embedded-opentype')
+}
