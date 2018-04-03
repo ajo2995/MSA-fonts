@@ -47,6 +47,12 @@
        url('fonts/Buried-Regular.eot') format('embedded-opentype')
 }
 @font-face {
+  font-family: 'nucleotide';
+  src: url('fonts/Nucleotide-Nucleotide.woff2') format('woff2'),
+       url('fonts/Nucleotide-Nucleotide.woff') format('woff'),
+       url('fonts/Nucleotide-Nucleotide.eot') format('embedded-opentype')
+}
+@font-face {
   font-family: 'boldclustal';
   src: url('fonts/Clustal-Bold.woff2') format('woff2'),
        url('fonts/Clustal-Bold.woff') format('woff'),
@@ -93,4 +99,10 @@
   src: url('fonts/Buried-Bold.woff2') format('woff2'),
        url('fonts/Buried-Bold.woff') format('woff'),
        url('fonts/Buried-Bold.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'boldnucleotide';
+  src: url('fonts/Nucleotide-Bold.woff2') format('woff2'),
+       url('fonts/Nucleotide-Bold.woff') format('woff'),
+       url('fonts/Nucleotide-Bold.eot') format('embedded-opentype')
 }
