@@ -48,9 +48,9 @@
 }
 @font-face {
   font-family: 'nucleotide';
-  src: url('fonts/Nucleotide-Nucleotide.woff2') format('woff2'),
-       url('fonts/Nucleotide-Nucleotide.woff') format('woff'),
-       url('fonts/Nucleotide-Nucleotide.eot') format('embedded-opentype')
+  src: url('fonts/Nucleotide-Regular.woff2') format('woff2'),
+       url('fonts/Nucleotide-Regular.woff') format('woff'),
+       url('fonts/Nucleotide-Regular.eot') format('embedded-opentype')
 }
 @font-face {
   font-family: 'boldclustal';
