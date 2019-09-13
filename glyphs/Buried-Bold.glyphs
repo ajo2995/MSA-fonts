@@ -1,5 +1,5 @@
 {
-.appVersion = "1075";
+.appVersion = "1264";
 copyright = "Copyright 2015 Google Inc. All Rights Reserved.";
 date = "2008-09-12 12:29:34 +0000";
 designer = Google;
@@ -3236,7 +3236,7 @@ unicode = 005A;
 },
 {
 glyphname = hyphen;
-lastChange = "2018-03-21 21:01:28 +0000";
+lastChange = "2019-09-13 10:37:01 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3244,10 +3244,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"282 755 LINE",
-"282 530 LINE",
-"1115 530 LINE",
-"1115 755 LINE"
+"229 745 LINE",
+"229 492 LINE",
+"970 492 LINE",
+"970 745 LINE"
 );
 }
 );
@@ -3255,20 +3255,20 @@ width = 1229;
 },
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
-layerId = "E25A8AD2-1434-44C4-880C-9AB5893B73C2";
+layerId = "025C90C2-3599-473D-85F4-C515FCCF8192";
 name = "Color 1";
 paths = (
 {
 closed = 1;
 nodes = (
-"282 755 LINE",
-"282 530 LINE",
-"1115 530 LINE",
-"1115 755 LINE"
+"229 742 LINE",
+"229 495 LINE",
+"970 495 LINE",
+"970 742 LINE"
 );
 }
 );
-width = 1229;
+width = 1230;
 }
 );
 note = hyphen;

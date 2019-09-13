@@ -1,5 +1,5 @@
 {
-.appVersion = "1075";
+.appVersion = "1264";
 copyright = "Copyright © 2018 by Andrew Olson. All rights reserved.";
 customParameters = (
 {
@@ -4244,7 +4244,7 @@ unicode = 005A;
 },
 {
 glyphname = hyphen;
-lastChange = "2018-03-20 21:25:30 +0000";
+lastChange = "2019-09-13 10:35:20 +0000";
 layers = (
 {
 layerId = "C0D79264-8DAD-424A-B50D-8F788F2E65C8";
@@ -4259,7 +4259,7 @@ nodes = (
 );
 }
 );
-width = 1230;
+width = 1229;
 },
 {
 associatedMasterId = "C0D79264-8DAD-424A-B50D-8F788F2E65C8";
