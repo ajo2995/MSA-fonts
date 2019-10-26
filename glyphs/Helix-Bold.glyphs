@@ -3235,6 +3235,90 @@ note = Z;
 unicode = 005A;
 },
 {
+glyphname = zero;
+lastChange = "2019-10-26 03:20:24 +0000";
+layers = (
+{
+layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"1228 0 LINE",
+"760 1456 LINE",
+"505 1456 LINE",
+"28 0 LINE",
+"324 0 LINE",
+"410 304 LINE",
+"847 304 LINE",
+"932 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"781 543 LINE",
+"479 543 LINE",
+"632 1079 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 2145 LINE",
+"1 2146 LINE",
+"0 2146 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1229 2145 LINE",
+"1229 2146 LINE",
+"1228 2146 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 -555 LINE",
+"1 -555 LINE",
+"0 -554 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1228 -555 LINE",
+"1229 -555 LINE",
+"1229 -554 LINE"
+);
+}
+);
+width = 1229;
+},
+{
+associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
+layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
+name = "Color 1";
+paths = (
+{
+closed = 1;
+nodes = (
+"0 -555 LINE",
+"1229 -556 LINE",
+"1229 2145 LINE",
+"0 2146 LINE"
+);
+}
+);
+width = 1229;
+}
+);
+note = A;
+unicode = 0030;
+},
+{
 glyphname = hyphen;
 lastChange = "2019-09-13 10:36:54 +0000";
 layers = (
