@@ -90,16 +90,16 @@ value = (
 "252,184,158,255",
 "253,214,198,255",
 "254,234,225,255",
-"146,47,4,255",
-"174,57,3,255",
-"203,69,3,255",
-"226,85,9,255",
-"247,125,42,255",
-"252,147,70,255",
-"253,186,127,255",
-"253,212,170,255",
-"254,233,211,255",
-"255,240,225,255",
+"239,184,65,255",
+"240,190,79,255",
+"241,197,97,255",
+"243,204,115,255",
+"243,208,126,255",
+"245,213,137,255",
+"245,218,148,255",
+"247,223,160,255",
+"248,231,182,255",
+"249,235,192,255",
 "68,10,129,255",
 "75,24,136,255",
 "91,52,149,255",
@@ -110,17 +110,36 @@ value = (
 "216,216,234,255",
 "235,233,243,255",
 "244,242,248,255",
-"106,38,6,255",
-"134,47,5,255",
-"161,57,4,255",
-"190,71,4,255",
-"227,104,16,255",
-"244,132,31,255",
-"254,189,77,255",
-"254,215,121,255",
-"255,242,180,255",
-"255,252,213,255",
-"255,255,255,0"
+"109,98,50,255",
+"118,108,62,255",
+"129,120,78,255",
+"140,131,91,255",
+"153,143,109,255",
+"164,155,124,255",
+"174,166,138,255",
+"187,179,155,255",
+"199,191,171,255",
+"210,203,186,255",
+"117,20,124,255",
+"126,35,130,255",
+"140,53,138,255",
+"157,76,149,255",
+"170,95,157,255",
+"184,112,165,255",
+"192,124,171,255",
+"212,149,183,255",
+"226,169,191,255",
+"245,195,203,255",
+"109,192,157,255",
+"119,198,166,255",
+"130,205,176,255",
+"140,212,185,255",
+"147,216,191,255",
+"159,224,203,255",
+"175,235,218,255",
+"182,240,224,255",
+"193,247,235,255",
+"202,253,243,255"
 )
 );
 }
@@ -2826,7 +2845,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2019-10-29 02:37:01 +0000";
+lastChange = "2019-10-29 14:59:05 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -2890,7 +2909,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 70";
 paths = (
 {
 closed = 1;
@@ -2910,7 +2929,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2019-10-29 02:37:24 +0000";
+lastChange = "2019-10-29 14:59:15 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -2974,7 +2993,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 71";
 paths = (
 {
 closed = 1;
@@ -2994,7 +3013,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2019-10-29 02:37:28 +0000";
+lastChange = "2019-10-29 14:59:22 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3058,7 +3077,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 72";
 paths = (
 {
 closed = 1;
@@ -3078,7 +3097,7 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2019-10-29 02:37:30 +0000";
+lastChange = "2019-10-29 14:59:28 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3142,7 +3161,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 73";
 paths = (
 {
 closed = 1;
@@ -3162,7 +3181,7 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2019-10-29 02:37:32 +0000";
+lastChange = "2019-10-29 14:59:36 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3226,7 +3245,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 74";
 paths = (
 {
 closed = 1;
@@ -3246,7 +3265,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2019-10-29 02:37:34 +0000";
+lastChange = "2019-10-29 14:59:43 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3310,7 +3329,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 75";
 paths = (
 {
 closed = 1;
@@ -3330,7 +3349,7 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2019-10-29 02:37:36 +0000";
+lastChange = "2019-10-29 14:59:48 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3394,7 +3413,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 76";
 paths = (
 {
 closed = 1;
@@ -3414,7 +3433,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2019-10-29 02:37:38 +0000";
+lastChange = "2019-10-29 14:59:56 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3478,7 +3497,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 77";
 paths = (
 {
 closed = 1;
@@ -3498,7 +3517,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2019-10-29 02:37:40 +0000";
+lastChange = "2019-10-29 15:00:01 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3562,7 +3581,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 78";
 paths = (
 {
 closed = 1;
@@ -3582,7 +3601,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2019-10-29 02:37:43 +0000";
+lastChange = "2019-10-29 15:00:06 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3646,7 +3665,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 79";
 paths = (
 {
 closed = 1;
@@ -3666,7 +3685,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2019-10-29 02:37:45 +0000";
+lastChange = "2019-10-29 15:00:14 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3730,7 +3749,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 80";
 paths = (
 {
 closed = 1;
@@ -3750,7 +3769,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2019-10-29 02:37:48 +0000";
+lastChange = "2019-10-29 15:00:19 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3814,7 +3833,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 81";
 paths = (
 {
 closed = 1;
@@ -3834,7 +3853,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2019-10-29 02:37:50 +0000";
+lastChange = "2019-10-29 15:00:25 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3898,7 +3917,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 82";
 paths = (
 {
 closed = 1;
@@ -3918,7 +3937,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2019-10-29 02:37:52 +0000";
+lastChange = "2019-10-29 15:00:30 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -3982,7 +4001,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 83";
 paths = (
 {
 closed = 1;
@@ -4002,7 +4021,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2019-10-29 02:37:54 +0000";
+lastChange = "2019-10-29 15:00:49 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -4066,7 +4085,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 84";
 paths = (
 {
 closed = 1;
@@ -4086,7 +4105,7 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2019-10-29 02:37:56 +0000";
+lastChange = "2019-10-29 15:00:42 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -4150,7 +4169,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 85";
 paths = (
 {
 closed = 1;
@@ -4170,7 +4189,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2019-10-29 02:37:58 +0000";
+lastChange = "2019-10-29 15:00:59 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -4234,7 +4253,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 86";
 paths = (
 {
 closed = 1;
@@ -4254,7 +4273,7 @@ unicode = 0077;
 },
 {
 glyphname = x;
-lastChange = "2019-10-29 02:38:02 +0000";
+lastChange = "2019-10-29 15:01:04 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -4318,7 +4337,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 87";
 paths = (
 {
 closed = 1;
@@ -4338,7 +4357,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2019-10-29 02:38:08 +0000";
+lastChange = "2019-10-29 15:01:09 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -4402,7 +4421,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 88";
 paths = (
 {
 closed = 1;
@@ -4422,7 +4441,7 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2019-10-29 02:38:10 +0000";
+lastChange = "2019-10-29 15:01:14 +0000";
 layers = (
 {
 layerId = "E890946B-05AE-4539-832B-10BBFB95E46A";
@@ -4486,7 +4505,7 @@ width = 1229;
 {
 associatedMasterId = "E890946B-05AE-4539-832B-10BBFB95E46A";
 layerId = "A1CBD6CF-77A5-4567-A08B-6230C7179EAE";
-name = "Color 1";
+name = "Color 89";
 paths = (
 {
 closed = 1;
